@@ -44,6 +44,7 @@ namespace RazorPagesMovie.Models
                         Genre = "Western",
                         Price = 3.99M
                     }
+
                 );
                 context.SaveChanges();
             }
