@@ -174,3 +174,8 @@ C:\Users\Owner\DevProjects\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\M
 C:\Users\Owner\DevProjects\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Details.cshtml.g.cs
 C:\Users\Owner\DevProjects\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Edit.cshtml.g.cs
 C:\Users\Owner\DevProjects\RazorPagesMovie\obj\Debug\netcoreapp3.1\Razor\Pages\Movies\Index.cshtml.g.cs
+C:\Users\Owner\DevProjects\RazorPagesMovie\bin\Debug\netcoreapp3.1\publish\web.config
+C:\Users\Owner\DevProjects\RazorPagesMovie\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\Owner\DevProjects\RazorPagesMovie\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\Users\Owner\DevProjects\RazorPagesMovie\bin\Debug\netcoreapp3.1\publish\RazorPagesMovie.deps.json
+C:\Users\Owner\DevProjects\RazorPagesMovie\bin\Debug\netcoreapp3.1\publish\RazorPagesMovie.runtimeconfig.json
